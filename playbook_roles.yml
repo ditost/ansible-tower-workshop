@@ -5,3 +5,5 @@
   roles:
     - { role: apache }
     - { role: security }
+    - { role: shared-apache-role }
+
